@@ -1,6 +1,7 @@
 # FaceBook Accounts Creator
 - Features :
   - Mobile Android/iOS API
+  - Support E-mail/Number Registration
   - Support Proxies
   - Captcha ByPass
   - Device Info Registration
