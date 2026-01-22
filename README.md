@@ -8,4 +8,4 @@
   - Random Informations
   - No CheckPoint
   - 100% Requests No Selenium
-- Contact : https://t.me/BoyFten
+- Contact : https://t.me/WHI3PER
